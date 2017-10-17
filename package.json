@@ -1,0 +1,19 @@
+{
+  "name": "ng2app",
+  "version": "1.0.0",
+  "description": "Anguar 2 boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sushant-nayak/ng2app.git"
+  },
+  "author": "Sushant Nayak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sushant-nayak/ng2app/issues"
+  },
+  "homepage": "https://github.com/sushant-nayak/ng2app#readme"
+}
